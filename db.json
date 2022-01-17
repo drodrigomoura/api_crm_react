@@ -1,0 +1,60 @@
+{
+  "clientes": [
+    {
+      "nombre": "Eum temporibus delec",
+      "empresa": "Nisi enim deserunt t",
+      "email": "wyzu@mailinator.com",
+      "telefono": "+1 (738) 698-3772",
+      "notas": "Hic alias pariatur ",
+      "id": 3
+    },
+    {
+      "nombre": "Dolor deleniti venia",
+      "empresa": "Dolores ea qui omnis",
+      "email": "roracug@mailinator.com",
+      "telefono": "+1 (939) 276-8636",
+      "notas": "Cupidatat ut iste ab",
+      "id": 4
+    },
+    {
+      "nombre": "Debitis officia cons",
+      "empresa": "Id in dolorem animi",
+      "email": "vycyt@mailinator.com",
+      "telefono": "+1 (891) 389-5034",
+      "notas": "In qui fugiat et be",
+      "id": 5
+    },
+    {
+      "nombre": "Id hic eum aut exer",
+      "empresa": "Exercitation harum i",
+      "email": "jysi@mailinator.com",
+      "telefono": "+1 (305) 394-4727",
+      "notas": "Eos hic placeat ne",
+      "id": 6
+    },
+    {
+      "nombre": "Perferendis voluptas",
+      "empresa": "Deleniti in voluptat",
+      "email": "cajivade@mailinator.com",
+      "telefono": "+1 (527) 983-6497",
+      "notas": "Nulla et aliquid lab",
+      "id": 7
+    },
+    {
+      "nombre": "Sed cum earum quas a",
+      "empresa": "Aspernatur sunt vel",
+      "email": "sosydyrew@mailinator.com",
+      "telefono": "+1 (628) 884-8512",
+      "notas": "",
+      "id": 8
+    },
+    {
+      "nombre": "Vero ut laborum Mag",
+      "empresa": "Corrupti fugiat au",
+      "email": "sakip@mailinator.com",
+      "telefono": "",
+      "notas": "",
+      "id": 9
+    }
+  ]
+}
